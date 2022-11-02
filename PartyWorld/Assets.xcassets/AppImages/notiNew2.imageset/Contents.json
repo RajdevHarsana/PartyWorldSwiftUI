@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "peace-friends-relaxed-friendly-cute-self-assured-girl-long-curly-hairstyle-show-victory-sign-smiling.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "peace-friends-relaxed-friendly-cute-self-assured-girl-long-curly-hairstyle-show-victory-sign-smiling@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "peace-friends-relaxed-friendly-cute-self-assured-girl-long-curly-hairstyle-show-victory-sign-smiling@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
